@@ -1,1 +1,1 @@
-cat /etc/os-release
+docker conatiner -d cat /etc/os-release
