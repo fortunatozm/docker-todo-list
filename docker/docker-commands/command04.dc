@@ -1,1 +1,1 @@
-docker conatiner exec 01container "cat /etc/os-release"
+docker conatiner exec -d 01container cat /etc/os-release
